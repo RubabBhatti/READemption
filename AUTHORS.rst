@@ -12,6 +12,9 @@ Development Lead
 Contributors
 ============
 
-| Name         | GitHub Username                                      |
-|--------------|------------------------------------------------------|
-| Kaneez Rubab | [@RubabBhatti](https://github.com/RubabBhatti)       |
++----------------+------------------------------------------------------+
+| Name           | GitHub Username                                     |
++================+======================================================+
+| Kaneez Rubab   | `@RubabBhatti <https://github.com/RubabBhatti>`_    |
++----------------+------------------------------------------------------+
+
