@@ -48,10 +48,8 @@ Additional Tips
 
 1. You can change the color of the strands of reference genome, gff3 or wiggles file data by 
 locating the track in IGB main window where there is a table like view named as "Data management view"
-, Click on the color appearing in the boc below "FG". 
-
+, Click on the color appearing in the boc below "FG".
 2. IGB only support file formats like ".fasta", ".gff3", ".bigwig", ".bam", ".bed", ".wig", ".vcf". Make 
-sure you load the right file format. 
-
+sure you load the right file format.
 3. Verify your files are compatible with IGB's version.
 
