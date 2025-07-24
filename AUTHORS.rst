@@ -10,6 +10,8 @@ Development Lead
 * Thorsten Bischler
 
 Contributors
-------------
+============
 
-None yet. Why not be the first?
+| Name         | GitHub Username                                      |
+|--------------|------------------------------------------------------|
+| Kaneez Rubab | [@RubabBhatti](https://github.com/RubabBhatti)       |
