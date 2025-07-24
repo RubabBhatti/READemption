@@ -37,21 +37,27 @@ Load the data in IGB
 3. Load the coverage ".wig" files. 
 4. Zoom in and zoom out into the regions of your interest.
 
-NOTE : After running READemption_analysis you will get two folders of coverage named as
- "READemption_analysis/output/salmonella_coverage-tnoar_mil_normalized/" and "READemption_analysis/output/salmonella_coverage-tnoar_min_normalized/", 
-  you can use either file but for IGB visualization  "READemption_analysis/output/salmonella_coverage-tnoar_mil_normalized/"
-  is recommended for clear display of normalised expressions. 
+NOTE
+====
+
+After running `READemption_analysis`, you will get two folders of coverage:
+
+- `READemption_analysis/output/salmonella_coverage-tnoar_mil_normalized/`
+- `READemption_analysis/output/salmonella_coverage-tnoar_min_normalized/`
+
+You can use either of these folders for visualization, but for IGB display, the following is **recommended** for a clearer view of normalized expressions:
+
+- `READemption_analysis/output/salmonella_coverage-tnoar_mil_normalized/`
 
 
-Additional Tips
----------------
 
-1. You can change the color of the strands of reference genome, gff3 or wiggles file data by 
-locating the track in IGB main window where there is a table like view named as "Data management view"
-, Click on the color appearing in the boc below "FG".
+Tips for Visualization in IGB
+=============================
 
-2. IGB only support file formats like ".fasta", ".gff3", ".bigwig", ".bam", ".bed", ".wig", ".vcf". Make 
-sure you load the right file format.
+1. You can change the color of the strands of the reference genome, GFF3, or wiggle file data by locating the track in the IGB main window where there is a table-like view named **Data Management View**. Click on the color appearing in the box below **FG**.
 
-3. Verify your files are compatible with IGB's version.
+2. IGB only supports file formats like `.fasta`, `.gff3`, `.bigwig`, `.bam`, `.bed`, `.wig`, and `.vcf`. Make sure you load the correct file format.
+
+3. Verify your files are compatible with your version of IGB.
+
 
